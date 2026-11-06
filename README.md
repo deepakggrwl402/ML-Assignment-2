@@ -29,7 +29,7 @@ performance without retraining.
 
 ## c. GitHub Repository Link
 
-https://github.com/2026aj05029-deepak/ML-Assignment-2
+https://github.com/deepakggrwl402/ML-Assignment-2
 
 Repository contents:
 ```
