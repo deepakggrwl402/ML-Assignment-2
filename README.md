@@ -57,7 +57,7 @@ https://ml-assignment-2-nsdwlsds8rqpbaskhj4hkq.streamlit.app
 
 ## BITS Virtual Lab Execution Screenshot
 
-> `<< INSERT SCREENSHOT OF RUNNING THIS PROJECT ON BITS VIRTUAL LAB HERE >>`
+![BITS Virtual Lab execution of train_models.py](./bits_lab_screenshot.png)
 
 ## d. Models Used
 
