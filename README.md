@@ -53,7 +53,7 @@ credit-risk-app/
 
 ## Live Streamlit App
 
-> `<< PASTE YOUR DEPLOYED STREAMLIT APP URL HERE >>`
+https://ml-assignment-2-nsdwlsds8rqpbaskhj4hkq.streamlit.app
 
 ## BITS Virtual Lab Execution Screenshot
 
